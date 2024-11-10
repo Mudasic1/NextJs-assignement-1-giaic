@@ -13,7 +13,7 @@ export default function TestimonialsSection() {
               &quot;Mudasir&apos;s work exceeded my expectations! The project was delivered on time and with great attention to detail.&quot;
             </p>
             <div className="text-right">
-              <span className="font-bold text-gray-900">— John Doe, CEO of ABC Corp</span>
+              <span className="font-bold text-gray-900">— John Doe, CEO of NexaTech</span>
             </div>
           </div>
 
@@ -23,7 +23,7 @@ export default function TestimonialsSection() {
               &quot;Professional, fast, and efficient. Mudasir is a talented developer who knows how to deliver high-quality results.&quot;
             </p>
             <div className="text-right">
-              <span className="font-bold text-gray-900">— Jane Smith, Founder of XYZ Solutions</span>
+              <span className="font-bold text-gray-900">— Jane Smith, Founder of NexaTech</span>
             </div>
           </div>
 
@@ -33,7 +33,7 @@ export default function TestimonialsSection() {
               &quot;Working with Mudasir was a pleasure. His communication skills and technical expertise made everything smooth.&quot;
             </p>
             <div className="text-right">
-              <span className="font-bold text-gray-900">— Alex Johnson, CTO of Tech Start</span>
+              <span className="font-bold text-gray-900">— Alex Johnson, CTO of NexaTech</span>
             </div>
           </div>
 
